@@ -1,2 +1,0 @@
-# MypersonalCV
-Fancy CV
