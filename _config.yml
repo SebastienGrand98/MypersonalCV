@@ -1,2 +1,6 @@
+# Build settings
+markdown: Kramdown
+theme: minima
+
 # Hello World  
 This is my CV.
