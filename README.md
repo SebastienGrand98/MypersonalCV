@@ -9,9 +9,9 @@ Currently looking for a first full time job in data science, preferably in compu
 
 ## 👨‍💼 Engineering Experience
 
-**Master Thesis** @ [Hensoldt Analytics](https://www.hensoldt-analytics.com/) _(Aug 2022 - Feb 2023) Munich, Germany_<br>
+**Master Thesis** @ [Hensoldt Analytics](https://www.hensoldt-analytics.com/) _(Aug 2022 - Feb 2023) Munich, Germany_<br><br>
 Motion extraction from videos captured by moving cameras:
-- Ego motion compensation due to camera movements, by panoramic scene building.
+- Camera ego motion compensation, by panoramic scene building and image stitching.
 - Motion extraction by low rank and sparse approximation.
 - **Technologies used:** Robust Principal Component Analysis, Image Warping & Homography Estimation, OpenCV, Python. <br>
   
