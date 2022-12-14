@@ -19,7 +19,7 @@ Training object detection model, to detect tiny object like drones:
 - Using different input data, RGB frame, RGB & Raw Motion, RGB & Binary Motion, and RGB & Trajectory map, shows that adding more informations enhance detector's perfomance for small object detection.
 - **Technologies used:** YOLOX, Pytorch, Python, PyCharm, Git. <br><br>
 
-**Apprenticeship** @ [Hensoldt France](https://www.hensoldt.fr/) _(Sep 2020 - Aug 2022) Toulouse, France_<br>
+**Apprenticeship** @ [Hensoldt France](https://www.hensoldt.fr/) _(Sep 2020 - Aug 2022) Toulouse, France_<br><br>
 Ship/Vessel abnormal behavior detection in Automatic Identification System Data:
 - Data Mining, pattern extraction, route prediction, ship road map building, anomaly detection.
 - **Technologies used:** Python, AIS, Sklearn, Tensorflow, Clustering HDBSCAN. <br>
