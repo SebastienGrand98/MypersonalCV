@@ -1,3 +1,5 @@
 # Build settings
 markdown: Kramdown
-theme: minima
+theme: jekyll-theme-minimal
+title: 💻✒️📄🌟
+description: Sebastien Grand's CV
