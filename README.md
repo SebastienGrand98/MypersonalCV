@@ -33,7 +33,7 @@ Distance measurement between stereovision device and a target:
 
 ## 📖 Education
 
-**Master of Science**: focused data science and mathematical modeling.<br>
+**Master of Science**: focused on Data Science and Mathematical modeling.<br>
 [ENSEEIHT/INSA](https://www.enseeiht.fr/fr/formation/formation-ingenieur/departement-sn/programme-sn/parcours-modia.html) _(Aug 2020 - Feb 2023) Toulouse, France_ <br>
 
 **1st year Electrical Engineering**: focused on power conversion, signal processing, and electronics.<br>
