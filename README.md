@@ -36,13 +36,13 @@ Distance measurement between stereovision device and a target:
 **Master of Science**: focused on Data Science and Mathematical modeling.<br>
 [ENSEEIHT/INSA](https://www.enseeiht.fr/fr/formation/formation-ingenieur/departement-sn/programme-sn/parcours-modia.html) _(Aug 2020 - Feb 2023) Toulouse, France_ <br>
 
-**1st year Electrical Engineering**: focused on power conversion, signal processing, and electronics.<br>
+**1st year Electrical Engineering**: focused on Power conversion, Signal processing, and Electronics.<br>
 [ENSEEIHT](https://www.enseeiht.fr/fr/formation/formation-ingenieur/departement-sn/programme-sn/parcours-modia.html) _(Sep 2019 - Jun 2020) Toulouse, France_ <br>
 
 **Bachelor of Science**: in Electrical Engineering.<br>
 [Paul Sabatier University](https://eea.univ-tlse3.fr/licence-eea) _(Sep 2018 - May 2019) Toulouse, France_ <br>
 
-**CUPGE-SPI**: preparation for Engineering schools, focused on Mathematics, physics, and programming.<br>
+**CUPGE-SPI**: preparation for Engineering schools, focused on Mathematics, Physics, and Programming.<br>
 [Paul Sabatier University](https://www.univ-tlse3.fr/preparation-concours-ingenieur-parcours-cycle-universitaire-preparatoire-aux-grandes-ecoles-sciences-pour-lingenieur-cupge-spi) _(Sep 2016 - Jun 2018) Toulouse, France_ <br>
 
 ## 🌍 Languages
