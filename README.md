@@ -1,7 +1,7 @@
 # Sebastien Grand
 
 _Junior data scientist, mainly interested in Computer Vision and Image processing, based in Toulouse, France 🇫🇷.  
-Currently looking for a first full time job in data science, preferably in computer vision. Curious and eager to learn, I thrive on researching new methods in data science and working with teammates to reach great results._<br>
+Currently looking for a first full time job in data science, preferably in computer vision. Curious and eager to learn, I thrive on researching new methods in data science and working with teammates to reach excellent results._<br>
 
 [Email](mailto:sebastiengrdmtz@gmail.com) / 
 [Website](https://sebastiengrand98.github.io/MypersonalCV/) / 
